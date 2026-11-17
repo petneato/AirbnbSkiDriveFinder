@@ -1,0 +1,9 @@
+# Built store package (rebuild with package.ps1)
+dist/
+
+# Local Claude Code settings
+.claude/
+
+# OS clutter
+Thumbs.db
+.DS_Store

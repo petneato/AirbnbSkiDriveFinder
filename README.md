@@ -43,3 +43,7 @@ Edit `resorts.js`. Each row is `[name, region, latitude, longitude, passes, note
 - `background.js`: calls the routing and address-lookup services
 - `popup.html` / `popup.js`: the toolbar popup
 - `resorts.js`: the resort list
+
+## License
+
+Code and resort list: [MIT](LICENSE). Driving times and place lookups come from OSRM and Nominatim (map data © OpenStreetMap contributors, ODbL) and follow those services' usage policies. Ski Pass Finder is not affiliated with Airbnb, Ikon Pass, Epic Pass or Indy Pass.
